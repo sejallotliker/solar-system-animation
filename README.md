@@ -1,4 +1,4 @@
-#Solar System animation
+# Solar System animation
 
 In this repository, the animation of the motion of Moon and Earth around Sun is done using HTML and CSS. 
 
